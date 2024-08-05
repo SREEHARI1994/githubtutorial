@@ -1,2 +1,2 @@
 # githubtutorial
-The accompanying GitHub repo for the medium article explaining how to  correctly add and start using GitHub for your personal projects on Pc/Lap
+The accompanying GitHub repository for this medium article (https://medium.com/@sreehari.mras/easiest-github-tutorial-on-how-to-correctly-use-github-for-your-projects-by-setting-up-online-and-8f79a09672bb#:~:text=It%20can%20be%20done%20easily,or%20so%20on%20and%20finally) explaining how to  correctly add and start using GitHub for your personal projects on your local system/PC/Laptop
